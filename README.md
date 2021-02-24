@@ -1,6 +1,9 @@
 # Git-github_note
 I have collected some urls about how to use GIT and Github.
 
+【视频教程】【哔哩哔哩】Git代码管理 | 莫烦python Github版本管理教程
+>>https://www.bilibili.com/video/BV1Jx411L7VE
+
 使用git将项目上传到github（最简单方法）(Github新建仓库，clone, add, commit, push)
 (注意：git push时候跟的是分支名，是master or main,还是别的，看清楚)
 >>https://www.cnblogs.com/cxk1995/p/5800196.html
