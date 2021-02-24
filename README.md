@@ -10,3 +10,6 @@ git init、git add、git status、git commit -m 的使用方法
 
 Git工作中遇到的一些问题（开启github二次验证；Git修改分支名称；Git版本回退；git status解决冲突；different commit histories.）
 >>https://zhuanlan.zhihu.com/p/41158642
+
+git commit 命令|菜鸟教程
+>>https://www.runoob.com/git/git-commit.html
