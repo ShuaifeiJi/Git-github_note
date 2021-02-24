@@ -24,3 +24,10 @@ github怎么pull request
 
 GitHub 的 Pull Request 是指什么意思？
 >>https://www.zhihu.com/question/21682976
+
+Git如何删除本地仓库
+>>https://blog.csdn.net/weixin_42956047/article/details/89469287
+
+Git 修改用户名以及提交邮箱
+(查看当前本地属性git config --local --list； 修改全局邮箱用户名； 修改当前邮箱用户名)
+>>https://www.cnblogs.com/shenxiaolin/p/7896489.html
