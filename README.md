@@ -17,3 +17,6 @@ git commit 命令|菜鸟教程
 github怎么pull request
 （把本地文件pull到别人的项目仓库）
 >>https://blog.csdn.net/qq_39241986/article/details/87459161
+
+GitHub 的 Pull Request 是指什么意思？
+>>https://www.zhihu.com/question/21682976
