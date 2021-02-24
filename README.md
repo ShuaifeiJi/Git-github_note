@@ -13,3 +13,7 @@ Git工作中遇到的一些问题（开启github二次验证；Git修改分支�
 
 git commit 命令|菜鸟教程
 >>https://www.runoob.com/git/git-commit.html
+
+github怎么pull request
+（把本地文件pull到别人的项目仓库）
+>>https://blog.csdn.net/qq_39241986/article/details/87459161
