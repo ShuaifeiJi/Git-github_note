@@ -2,6 +2,7 @@
 I have collected some urls about how to use GIT and Github.
 
 使用git将项目上传到github（最简单方法）(Github新建仓库，clone, add, commit, push)
+(注意：git push时候跟的是分支名，是master or main,还是别的，看清楚)
 >>https://www.cnblogs.com/cxk1995/p/5800196.html
 
 git init、git add、git status、git commit -m 的使用方法
